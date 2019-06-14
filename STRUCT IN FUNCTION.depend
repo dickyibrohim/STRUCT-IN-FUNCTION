@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1462112079 source:d:\struct in function\struct in function\main.c
+	"header.h"
+
+1462111714 d:\struct in function\struct in function\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1462111692 source:d:\struct in function\struct in function\pustaka.c
+	"header.h"
+
+1462112097 source:f:\ \algorithm programming pertemuan 11\struct pertemuan 13\struct in function\struct in function\main.c
+	"header.h"
+
+1462111714 f:\ \algorithm programming pertemuan 11\struct pertemuan 13\struct in function\struct in function\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1462111692 source:f:\ \algorithm programming pertemuan 11\struct pertemuan 13\struct in function\struct in function\pustaka.c
+	"header.h"
+
+1462112097 source:c:\bismillah uas algorithm programming\struct pertemuan 13\struct in function\struct in function\main.c
+	"header.h"
+
+1462111714 c:\bismillah uas algorithm programming\struct pertemuan 13\struct in function\struct in function\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1462111692 source:c:\bismillah uas algorithm programming\struct pertemuan 13\struct in function\struct in function\pustaka.c
+	"header.h"
+
